@@ -24,7 +24,6 @@ footer-color :#272727 */
 body {
     background: #111111;
     color: rgb(255, 255, 255);
-
 }
 
 main {
@@ -34,7 +33,6 @@ main {
 .container {
     width: 90%;
     margin: 0 auto;
-
 }
 
 /* ----------------------------- */
